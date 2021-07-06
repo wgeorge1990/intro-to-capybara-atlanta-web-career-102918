@@ -89,7 +89,7 @@ GEM
     rack-test (0.8.3)
       rack (>= 1.0, < 3)
     rainbow (1.99.2)
-    rake (12.3.0)
+    rake (13.0.3)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
